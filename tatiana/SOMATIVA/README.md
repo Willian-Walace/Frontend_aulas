@@ -1,5 +1,16 @@
-# Vue 3 + Vite
+# SOMATIVA DESF e DESB
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+AULA 03 - Instalação do tailwind
+AULA 04 - Organização do front-end seguindo uma estrutura clara e modular:
+        src/
+       assets/ # Imagens, ícones e recursos visuais
+       components/ # Componentes reutilizáveis (cards, tabelas, modais)
+       views/ # Páginas principais do sistema
+       router/ # Configuração do Vue Router
+       store/ # Pinia, estado global
+       services/ # Funções de comunicação com back-end
+       App.vue # Componente raiz
+       main.js # Inicialização do app e integração de Pinia e Router
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Criando pasta views
+Criando store
